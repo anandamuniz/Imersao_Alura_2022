@@ -82,7 +82,7 @@ button {
     cursor: pointer;        /*surge uma mãozinha ao passar o cursor por cima do botão*/
 }
 
-#respostaChute {
+#respostaChute, #tentativas {
     font-family: "Roboto Mono", sans-serif;
     font-weight: 100;
     font-size: 1.25rem;
